@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw data + generated outputs
+data/*.csv
+output/*
+
+# Corporate cert files
+*.cer
+*.pem
+
+# VS Code settings
+.vscode/
